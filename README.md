@@ -1,3 +1,6 @@
-wangxuan
+trieTree
 ========
-just for tesing
+
+支持功能：
+1、支持从文件读取黑名单词汇
+2、支持前缀匹配以及全词匹配
